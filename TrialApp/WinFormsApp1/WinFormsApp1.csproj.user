@@ -4,7 +4,7 @@
     <PublishUrlHistory>D:\GIT\WinformAutoUpdate\published\|publish\</PublishUrlHistory>
     <InstallUrlHistory>https://raw.githubusercontent.com/UmairYasin1/WinformAutoUpdate/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory />
+    <UpdateUrlHistory>https://raw.githubusercontent.com/UmairYasin1/WinformAutoUpdate/main/published/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>en-US</FallbackCulture>
