@@ -12,4 +12,3 @@ D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.exe.manife
 D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.application
 D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.exe
 D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.pdb
-D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.csprojAssemblyReference.cache
