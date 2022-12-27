@@ -1,0 +1,15 @@
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe.config
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe.manifest
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\bin\Debug\WinFormsApp1.application
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\bin\Debug\WinFormsApp1.exe
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\bin\Debug\WinFormsApp1.pdb
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.csprojAssemblyReference.cache
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.Form1.resources
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.Properties.Resources.resources
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.GenerateResource.cache
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.TrustInfo.xml
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.exe.manifest
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.application
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.exe
+D:\GIT\WinformAutoUpdate\TrialApp\WinFormsApp1\obj\Debug\WinFormsApp1.pdb
