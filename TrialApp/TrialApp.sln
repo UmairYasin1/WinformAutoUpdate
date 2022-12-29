@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWinFormApp1", "SetupWinFormApp1\SetupWinFormApp1.vdproj", "{39B0B2F6-6EB8-4734-80A1-2E7B32377AAE}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWizardWinFromApp1", "SetupWizardWinFromApp1\SetupWizardWinFromApp1.vdproj", "{F95A527F-845E-4318-98F2-A02721148D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,8 @@ Global
 		{8263BF4B-EDAD-4DBF-A687-97B7572951B6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{39B0B2F6-6EB8-4734-80A1-2E7B32377AAE}.Debug|Any CPU.ActiveCfg = Debug
 		{39B0B2F6-6EB8-4734-80A1-2E7B32377AAE}.Release|Any CPU.ActiveCfg = Release
+		{F95A527F-845E-4318-98F2-A02721148D44}.Debug|Any CPU.ActiveCfg = Debug
+		{F95A527F-845E-4318-98F2-A02721148D44}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
